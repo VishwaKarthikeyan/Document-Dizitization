@@ -1,6 +1,6 @@
 
 
-**Document Digitization**
+## **Document Digitization**
 
 Document digitization is the process of converting physical documents or images into digital format, enabling easier storage, retrieval, and manipulation of the content. It involves several steps aimed at transforming analog information into machine-readable data, often utilizing Optical Character Recognition (OCR) technology.
 
@@ -38,17 +38,17 @@ Here's a breakdown of the steps involved in document digitization:
 ![image](https://github.com/VishwaKarthikeyan/OCR/assets/100937600/54abb327-7178-452f-ac5c-5f729ddfb687)
 
 
-•	CRNN (Custom) 
+•	CRNN (Custom)
 
 •	[Textsnake](https://github.com/princewang1994/TextSnake.pytorch)
-
-•	GCP OCR
-
-•	Azure OCR
 
 •	[PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR/blob/release/2.7/README_en.md)
 
 •	[MMOCR](https://github.com/open-mmlab/mmocr)
+
+•	GCP OCR
+
+•	Azure OCR
 
 
 **OCR Post Processing**: Refines OCR results to enhance accuracy and consistency.
@@ -72,35 +72,37 @@ Here's a breakdown of the steps involved in document digitization:
 •	Accuracy validation on Character Error Rate (CER), Word Error Rate (WER)
 
 
-**Deployment**
+### **Deployment**
 
-Training mode – Normal, Distributed, Mixed Precision
+•	Training mode – Normal, Distributed, Mixed Precision
 
-Training Environment – Linux GPU/CPU, Linux DCU, Windows GPU/CPU, macOS
+•	Training Environment – Linux GPU/CPU, Linux DCU, Windows GPU/CPU, macOS
 
-Compression – Prune, Quantization, Distillation
+•	Compression – Prune, Quantization, Distillation
 
-Inference and Deployment – Python/C++ Inference, Python/C++ Serving, OpenCL ARM GPU,Paddle2ONNX, PaddleCloud , ARM CPU, Jetson, Paddle.js
+•	Inference and Deployment – Python/C++ Inference, Python/C++ Serving, OpenCL ARM GPU,Paddle2ONNX, PaddleCloud , ARM CPU, Jetson, Paddle.js
 
 
-**Solutions and Algorithms**
+
+### **Solutions and Algorithms**
   
 ![image](https://github.com/VishwaKarthikeyan/OCR/assets/100937600/7fa64a40-ed32-4856-9ec1-647598af4dbf)
 
 ![image](https://github.com/VishwaKarthikeyan/OCR/assets/100937600/2caa2d45-72ff-447b-bd63-2384d0649975)
 
 
-**Applications**
+### **Applications**
 
-Financial Scene – Forms, Bills
+•	Financial Scene – Forms, Bills
 
-Industrial Scene – Watt hour meter, License plate
+•	Industrial Scene – Watt hour meter, License plate
 
-Educational Scene- Handwriting, Formula
+•	Educational Scene- Handwriting, Formula
 
-Medical Scene – Laboratory test Report
+•	Medical Scene – Laboratory test Report
 
-**Examples**
+
+### **Examples**
 
 ![image](https://github.com/VishwaKarthikeyan/OCR/assets/100937600/cefa57f3-e2c5-40b1-b0ec-f28214bee11b)
 
