@@ -4,11 +4,15 @@
 
 Document digitization is the process of converting physical documents or images into digital format, enabling easier storage, retrieval, and manipulation of the content. It involves several steps aimed at transforming analog information into machine-readable data, often utilizing Optical Character Recognition (OCR) technology.
 
+![image](https://github.com/VishwaKarthikeyan/Document-Dizitization/assets/100937600/f3c06c4f-21c1-4a10-83a3-3936dae9484a)
+
+
 Here's a breakdown of the steps involved in document digitization:
 
 **Image Clarity Enhancement**: Enhances image quality to improve OCR accuracy.
 
-  ![image](https://github.com/VishwaKarthikeyan/OCR/assets/100937600/027a1323-a17a-4855-b3c0-446cef7cfc6e)
+![image](https://github.com/VishwaKarthikeyan/Document-Dizitization/assets/100937600/767e866b-cfc9-4b63-b169-ae5e648d6e5e)
+
 
 
 
@@ -22,7 +26,8 @@ Here's a breakdown of the steps involved in document digitization:
 
 **Layout/Object Detection**: Identifies text regions and objects in images/documents.
 
-![image](https://github.com/VishwaKarthikeyan/OCR/assets/100937600/126162e6-a6dd-445a-93f7-b9310077d192)
+![image](https://github.com/VishwaKarthikeyan/Document-Dizitization/assets/100937600/be61cf31-c91b-4892-9804-55d9a5e01321)
+
 
 
 •	Layout XLM	
@@ -35,7 +40,8 @@ Here's a breakdown of the steps involved in document digitization:
 
 **OCR**: Converts text images into machine-readable text.
 
-![image](https://github.com/VishwaKarthikeyan/OCR/assets/100937600/54abb327-7178-452f-ac5c-5f729ddfb687)
+![image](https://github.com/VishwaKarthikeyan/Document-Dizitization/assets/100937600/31cf83b5-e020-4a3e-9f2c-e7299f160a98)
+
 
 
 •	CRNN (Custom)
@@ -62,7 +68,8 @@ Here's a breakdown of the steps involved in document digitization:
 
 **OCR Validation**: Assesses OCR output quality and accuracy metrics.
 
-![image](https://github.com/VishwaKarthikeyan/OCR/assets/100937600/574b106f-0bae-4eba-b125-a6c220cf9fd0)
+![image](https://github.com/VishwaKarthikeyan/Document-Dizitization/assets/100937600/9cd34493-92e3-4272-86c3-c380c2b6a6c6)
+
 
 
 •	Word length, permissible character check
@@ -86,9 +93,11 @@ Here's a breakdown of the steps involved in document digitization:
 
 ### **Solutions and Algorithms**
   
-![image](https://github.com/VishwaKarthikeyan/OCR/assets/100937600/7fa64a40-ed32-4856-9ec1-647598af4dbf)
+![image](https://github.com/VishwaKarthikeyan/Document-Dizitization/assets/100937600/b321c7a3-f379-49b9-abf1-1edcc477ef10)
 
-![image](https://github.com/VishwaKarthikeyan/OCR/assets/100937600/2caa2d45-72ff-447b-bd63-2384d0649975)
+
+![image](https://github.com/VishwaKarthikeyan/Document-Dizitization/assets/100937600/7d1c3d1f-9608-44e4-8c8c-fc96bd572a0c)
+
 
 
 ### **Applications**
@@ -104,11 +113,14 @@ Here's a breakdown of the steps involved in document digitization:
 
 ### **Examples**
 
-![image](https://github.com/VishwaKarthikeyan/OCR/assets/100937600/cefa57f3-e2c5-40b1-b0ec-f28214bee11b)
+![image](https://github.com/VishwaKarthikeyan/Document-Dizitization/assets/100937600/8774127e-471f-4818-861b-19c78a0ab7aa)
 
-![image](https://github.com/VishwaKarthikeyan/OCR/assets/100937600/74086a1b-4b8b-41ab-84e5-42e7c7495579)
 
-![image](https://github.com/VishwaKarthikeyan/OCR/assets/100937600/57cfba9a-5add-4a5b-b675-17a2474696ca)
+![image](https://github.com/VishwaKarthikeyan/Document-Dizitization/assets/100937600/fa14ffa8-66ef-494c-bc11-337180408e5a)
+
+
+![image](https://github.com/VishwaKarthikeyan/Document-Dizitization/assets/100937600/858fbcde-f728-4895-a601-0dab05617e33)
+
 
 
 
